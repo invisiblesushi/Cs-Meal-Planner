@@ -8,3 +8,13 @@ C:\Users\danielch\Documents\GitHub\MealPlanner\MealPlanner\obj\Debug\MealPlanner
 C:\Users\danielch\Documents\GitHub\MealPlanner\MealPlanner\bin\Debug\Newtonsoft.Json.dll
 C:\Users\danielch\Documents\GitHub\MealPlanner\MealPlanner\bin\Debug\Newtonsoft.Json.xml
 C:\Users\danielch\Documents\GitHub\MealPlanner\MealPlanner\obj\Debug\MealPlanner.csproj.CopyComplete
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\bin\Debug\MealPlanner.exe
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\bin\Debug\MealPlanner.pdb
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\obj\Debug\MealPlanner.csproj.AssemblyReference.cache
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\obj\Debug\MealPlanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\obj\Debug\MealPlanner.csproj.CoreCompileInputs.cache
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\obj\Debug\MealPlanner.csproj.CopyComplete
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\obj\Debug\MealPlanner.exe
+C:\Users\danielch\Documents\GitHub\C-Meal-Planner\MealPlanner\obj\Debug\MealPlanner.pdb

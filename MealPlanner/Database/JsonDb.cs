@@ -27,6 +27,12 @@ namespace MealPlanner.Database
             File.WriteAllText(_mealsFile, data);
         }
 
+        public static void SaveWeekMeals(List<WeekMeals> weekMeals)
+        {
+            var data = JsonConvert.SerializeObject(weekMeals);
+            File.WriteAllText(_suggestedMealsFile, data);
+        }
+        
         public static List<Meal> GetMealList()
         {
             return MealList;
